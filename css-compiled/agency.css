@@ -1,12 +1,9 @@
-/*
-Error: Undefined variable: "$secondary-dark".
-        on line 10 of scss/agency.scss
 
-5:  *\/
+
 6: 
 7: body {
 8:     overflow-x: hidden;
-9:     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+9:     font-family: "Lato","Futura-PT","Futura","Helvetica Neue",Helvetica,Arial,sans-serif;
 10:     color: $secondary-dark;
 11: }
 12: 
